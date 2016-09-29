@@ -1,0 +1,37 @@
+/**********************
+mpC 5500 StyleSheet
+**********************/
+*{
+	background-color:;
+	}
+
+#led_screen{
+	background-color:#C4D79B;
+	color:green;
+	font-size:30px;
+	font-family:terminal;
+	width:400px;
+	height:150px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow:0 0 6px #888888;	
+	-moz-box-shadow: 0 0 6px #888888;
+	-webkit-box-shadow: 0 0 6px #888888
+	}
+td{
+	background-color:#98AD98;
+}
+	
+	
+#label{
+	font-family:impact;
+	font-size:20px;
+	text-shadow: 1px 1px 1px #0000ff;
+	background-color:lightgray;
+	color:red;
+	border-radius: 1px;
+	box-shadow:0 0 2px aliceblue;	
+	-moz-box-shadow: 0 0 1px #888888;
+	-webkit-box-shadow: 0 0 1px #888888
+	}
